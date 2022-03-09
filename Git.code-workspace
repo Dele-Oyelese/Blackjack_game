@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../leetcode_practice"
+		},
+		{
+			"path": "../../leetcode_practice/programing_skills"
+		}
+	],
+	"settings": {}
+}
